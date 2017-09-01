@@ -1,17 +1,17 @@
 ---
 layout: poem
-title: "Hey Now!"
-author: someone
+title: "My Heart Leaps Up"
+author: William Wordsworth
 editor: Nina Rosenblatt
-source: whatever
+source: 
 ---
 
-Hey now!
+My Heart Leaps Up When I Behold
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
-- The ship has weather’d every rack, the prize we sought is won,
-- The port is near, the bells I hear, the people all exulting,
-- While follow eyes the steady keel, the vessel grim and daring; 
+- My heart leaps up when I behold [^fn1]
+- A rainbow in the sky;
+- So was it when my life began;
+- So is it now I am a man; 
 - {:.indent-3}But O heart! heart! heart!
 - {:.indent-4}O the bleeding drops of red,
 - {:.indent-5}Where on the deck my Captain lies,
