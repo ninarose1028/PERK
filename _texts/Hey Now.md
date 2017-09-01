@@ -12,9 +12,9 @@ My Heart Leaps Up When I Behold
 - A rainbow in the sky;
 - So was it when my life began;
 - So is it now I am a man; 
-- {:.indent-3}But O heart! heart! heart!
-- {:.indent-4}O the bleeding drops of red,
-- {:.indent-5}Where on the deck my Captain lies,
+- {:.indent-3}So be it when I shall grow old,
+- {:.indent-3}Or let me die!
+- {:.indent-43The child is the father of the man,
 - {:.indent-6}Fallen cold and dead.
 
 - O Captain! my Captain! rise up and hear the bells; 
