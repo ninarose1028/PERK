@@ -13,7 +13,7 @@ source:
 
 - So be it when I shall grow old,
 - Or let me die!
-- <p markdown="1">The child is the father of the man.{fn1}
+- The child is the father of the man.
 
 
 <br>
