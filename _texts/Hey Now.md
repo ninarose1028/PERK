@@ -14,7 +14,7 @@ My Heart Leaps Up When I Behold
 - So is it now I am a man; 
 - {:.indent-3}So be it when I shall grow old,
 - {:.indent-3}Or let me die!
-- {:.indent-3The child is the father of the man,
+- {:.indent-3)The child is the father of the man,
 
 
 <br>
