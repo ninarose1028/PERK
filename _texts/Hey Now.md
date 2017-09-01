@@ -6,8 +6,6 @@ editor: Nina Rosenblatt
 source: 
 ---
 
-
-
 - MY heart leaps up when I behold
 - A rainbow in the sky;
 - So was it when my life began;
