@@ -13,7 +13,9 @@ source:
 
 - So be it when I shall grow old,
 - Or let me die!
-- The child is the father of the man.
+- The Child is the father of the Man;
+- And I wish my days to be
+- Bound each to each by natural piety.
 
 
 <br>
